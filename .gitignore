@@ -5,3 +5,5 @@ node_modules
 public_html/build
 public_html/js/bower-combined.js
 public_html/css/bower-combined.css
+/.ssh
+.viminfo
