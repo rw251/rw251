@@ -7,3 +7,4 @@ public_html/js/bower-combined.js
 public_html/css/bower-combined.css
 deploy.sh
 sites/
+.viminfo
